@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\bin\Release\DreamGug.exe.config
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\bin\Release\DreamGug.exe
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\bin\Release\DreamGug.pdb
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\obj\Release\DreamGug.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\obj\Release\Interop.SHDocVw.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\obj\Release\DreamGug.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\obj\Release\DreamGug.exe
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\obj\Release\DreamGug.pdb
+C:\Users\Admin\Documents\visual studio 2015\Projects\DreamGug\DreamGug\obj\Release\Interop.UIAutomationClient.dll
+H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\bin\Release\DreamGug.exe.config
+H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Release\Interop.SHDocVw.dll
+H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Release\Interop.UIAutomationClient.dll
+H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Release\DreamGug.csproj.ResolveComReference.cache
+H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Release\DreamGug.exe
+H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Release\DreamGug.pdb
