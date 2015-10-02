@@ -90,7 +90,6 @@ namespace DreamGun
               
             }
            
-            //Thread.Sleep(7000);
         }
 
         public List<string> GetUrList()

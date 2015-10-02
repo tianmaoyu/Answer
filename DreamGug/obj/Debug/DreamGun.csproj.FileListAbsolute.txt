@@ -11,3 +11,4 @@ H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Debug\DreamG
 H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Debug\DreamGun.application
 H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Debug\DreamGun.exe
 H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Debug\DreamGun.pdb
+H:\工具\源代码装机联盟的数据\test_DreamGug\DreamGug\obj\Debug\DreamGun.csprojResolveAssemblyReference.cache
