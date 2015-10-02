@@ -86,8 +86,6 @@ namespace DreamGun
                     CleanIECookics.CleanCookie();
                     Thread.Sleep(7000);
                 }
-               
-              
             }
         }
 
